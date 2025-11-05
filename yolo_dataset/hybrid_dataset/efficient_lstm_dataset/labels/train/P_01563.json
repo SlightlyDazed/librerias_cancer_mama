@@ -1,0 +1,45 @@
+{
+  "patient_id": "P_01563",
+  "class_id": 1,
+  "label": "benign",
+  "cases_timeline": [
+    "P_01563_LEFT_CC_1",
+    "P_01563_LEFT_CC_2",
+    "P_01563_LEFT_MLO_1",
+    "P_01563_LEFT_MLO_2",
+    "P_01563_LEFT_MLO_3",
+    "P_01563_LEFT_MLO_4",
+    "P_01563_RIGHT_CC_1",
+    "P_01563_RIGHT_CC_2",
+    "P_01563_RIGHT_MLO_1",
+    "P_01563_RIGHT_MLO_2",
+    "P_01563_RIGHT_MLO_3"
+  ],
+  "num_studies": 11,
+  "birads_progression": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "pathology_progression": [
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK"
+  ]
+}

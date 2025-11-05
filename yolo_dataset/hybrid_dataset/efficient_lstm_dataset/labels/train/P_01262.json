@@ -1,0 +1,36 @@
+{
+  "patient_id": "P_01262",
+  "class_id": 0,
+  "label": "malignant",
+  "cases_timeline": [
+    "P_01262_RIGHT_CC_1",
+    "P_01262_RIGHT_CC_2",
+    "P_01262_RIGHT_MLO_1",
+    "P_01262_RIGHT_CC_3",
+    "P_01262_RIGHT_CC_4",
+    "P_01262_RIGHT_MLO_2",
+    "P_01262_RIGHT_MLO_3",
+    "P_01262_RIGHT_MLO_4"
+  ],
+  "num_studies": 8,
+  "birads_progression": [
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+  ],
+  "pathology_progression": [
+    "MALIGNANT",
+    "MALIGNANT",
+    "MALIGNANT",
+    "MALIGNANT",
+    "MALIGNANT",
+    "MALIGNANT",
+    "MALIGNANT",
+    "MALIGNANT"
+  ]
+}

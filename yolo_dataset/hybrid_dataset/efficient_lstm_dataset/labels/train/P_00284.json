@@ -1,0 +1,24 @@
+{
+  "patient_id": "P_00284",
+  "class_id": 2,
+  "label": "suspicious",
+  "cases_timeline": [
+    "P_00284_LEFT_CC_2",
+    "P_00284_LEFT_MLO_1",
+    "P_00284_LEFT_CC_1",
+    "P_00284_LEFT_MLO_2"
+  ],
+  "num_studies": 4,
+  "birads_progression": [
+    3,
+    3,
+    4,
+    4
+  ],
+  "pathology_progression": [
+    "BENIGN",
+    "BENIGN",
+    "BENIGN",
+    "BENIGN"
+  ]
+}

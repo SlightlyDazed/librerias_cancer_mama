@@ -1,0 +1,30 @@
+{
+  "patient_id": "P_00937",
+  "class_id": 0,
+  "label": "malignant",
+  "cases_timeline": [
+    "P_00937_RIGHT_CC_1",
+    "P_00937_RIGHT_CC_2",
+    "P_00937_RIGHT_MLO_1",
+    "P_00937_RIGHT_MLO_2",
+    "P_00937_LEFT_CC_1",
+    "P_00937_LEFT_MLO_1"
+  ],
+  "num_studies": 6,
+  "birads_progression": [
+    4,
+    4,
+    4,
+    4,
+    5,
+    5
+  ],
+  "pathology_progression": [
+    "MALIGNANT",
+    "BENIGN",
+    "MALIGNANT",
+    "BENIGN",
+    "MALIGNANT",
+    "MALIGNANT"
+  ]
+}

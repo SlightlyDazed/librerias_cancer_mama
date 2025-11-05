@@ -1,0 +1,27 @@
+{
+  "patient_id": "P_01819",
+  "class_id": 0,
+  "label": "malignant",
+  "cases_timeline": [
+    "P_01819_RIGHT_CC_1",
+    "P_01819_LEFT_CC_2",
+    "P_01819_LEFT_MLO_2",
+    "P_01819_LEFT_CC_1",
+    "P_01819_LEFT_MLO_1"
+  ],
+  "num_studies": 5,
+  "birads_progression": [
+    2,
+    2,
+    2,
+    4,
+    4
+  ],
+  "pathology_progression": [
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "MALIGNANT",
+    "MALIGNANT"
+  ]
+}

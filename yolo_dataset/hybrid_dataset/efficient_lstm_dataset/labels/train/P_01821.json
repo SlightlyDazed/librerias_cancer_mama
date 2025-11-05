@@ -1,0 +1,18 @@
+{
+  "patient_id": "P_01821",
+  "class_id": 1,
+  "label": "benign",
+  "cases_timeline": [
+    "P_01821_LEFT_CC_1",
+    "P_01821_LEFT_MLO_1"
+  ],
+  "num_studies": 2,
+  "birads_progression": [
+    4,
+    4
+  ],
+  "pathology_progression": [
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK"
+  ]
+}

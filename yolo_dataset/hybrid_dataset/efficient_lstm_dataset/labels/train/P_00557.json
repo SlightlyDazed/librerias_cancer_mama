@@ -1,0 +1,39 @@
+{
+  "patient_id": "P_00557",
+  "class_id": 2,
+  "label": "suspicious",
+  "cases_timeline": [
+    "P_00557_RIGHT_CC_1",
+    "P_00557_RIGHT_CC_2",
+    "P_00557_RIGHT_CC_3",
+    "P_00557_RIGHT_CC_4",
+    "P_00557_RIGHT_MLO_1",
+    "P_00557_RIGHT_MLO_2",
+    "P_00557_RIGHT_MLO_3",
+    "P_00557_LEFT_CC_1",
+    "P_00557_LEFT_MLO_1"
+  ],
+  "num_studies": 9,
+  "birads_progression": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    4,
+    4
+  ],
+  "pathology_progression": [
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN_WITHOUT_CALLBACK",
+    "BENIGN",
+    "BENIGN"
+  ]
+}
